@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Flutter Number Trivia Clean Architecture
 
 A Flutter application that demonstrates Clean Architecture principles while implementing a Number Trivia feature. This project follows best practices and modern Flutter development patterns.
@@ -92,3 +93,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Abdulkhaliq-84
 - GitHub: [@Abdulkhaliq-84](https://github.com/Abdulkhaliq-84)
+=======
+# flutter-number-trivia-clean-architecture
+>>>>>>> origin/main
